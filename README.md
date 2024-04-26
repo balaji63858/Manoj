@@ -1,2 +1,2 @@
-# FOr Practice
+# For Practice
 sample
